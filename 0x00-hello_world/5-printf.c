@@ -1,6 +1,8 @@
 #include <stdio.h>
 /*
-* Display a sentence
+* main - Entry point
+*
+* Return: Always 0
 */
 int main(void)
 {
