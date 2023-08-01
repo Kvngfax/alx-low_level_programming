@@ -19,7 +19,8 @@ void print_chessboard(char (*a)[8])
 		_putchar('\n');
 	}
 }
-/*It takes the 2D array a as a parameter, representing the chessboard,
+/**
+* It takes the 2D array a as a parameter, representing the chessboard,
 * where each element a[i][j] is a character representing a chess piece
 *
 * The function uses two nested loops (for loops) to traverse the 2D array
